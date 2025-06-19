@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://png.pngtree.com/thumb_back/fh260/background/20231002/pngtree-visualizing-the-synergy-of-web-ui-ux-design-and-web-development-image_13578102.png" alt="creative design gif" />
+  <img src="https://i.postimg.cc/wTRNcqsL/Screenshot-2025-06-19-133534.png" alt="creative design gif" />
 </div>
 
 # 👋 Hi, I’m @enfayz
