@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/wTRNcqsL/Screenshot-2025-06-19-133534.png" width="620" alt="creative design gif" />
+  <img src="https://i.postimg.cc/wTRNcqsL/Screenshot-2025-06-19-133534.png" width="820" alt="creative design gif" />
 </div>
 
 # 👋 Hi, I’m @enfayz
