@@ -31,7 +31,6 @@ My passion lies in transforming ideas into elegant, user-friendly digital experi
 - 📐 Open-source design projects  
 - 🎯 Ideas where UX makes a real difference
 
----
 
 <!---
 enfayz/enfayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
